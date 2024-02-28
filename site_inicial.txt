@@ -2,6 +2,7 @@
 <meta charset= utf-8>
 
 <html>
+
 <div class="topnav" style="position:relative;top:-7px;left:-10px;width:103%;height:54px;">
   <a class="active" href="https://dataimesc.imesc.ma.gov.br/">DataImesc</a>
   <a href="">Início</a>
@@ -12,10 +13,8 @@
   <a href="https://dataimesc.github.io/gerador-de-graficos/">Gerador de Gráficos</a>
 </div>
 
+
 <head>
-
-    <title>IMESC | Calculadora da Inflação Maranhense</title>
-
 </head>
 
 <body>
@@ -25,6 +24,5 @@
 
 
 <script>
-
 </script>
 
