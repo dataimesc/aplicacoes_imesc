@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<meta charset= utf-8>
+
+<html>
+<div class="topnav" style="position:relative;top:-7px;left:-10px;width:103%;height:54px;">
+  <a class="active" href="https://dataimesc.imesc.ma.gov.br/">DataImesc</a>
+  <a href="">Início</a>
+  <a href="">Gerador de relatórios</a>
+  <a href="">Atualização de séries do IBGE</a>
+  <a href="https://dataimesc.github.io/calculadora/">Calculadora de Inflação</a>
+  <a href="https://dataimesc.github.io/conversor_de_moedas/">Conversor de Moedas</a>
+  <a href="https://dataimesc.github.io/gerador-de-graficos/">Gerador de Gráficos</a>
+</div>
+
+<head>
+
+    <title>IMESC | Calculadora da Inflação Maranhense</title>
+
+</head>
+
+<body>
+</body>
+
+</html>
+
+
+<script>
+
+</script>
+
